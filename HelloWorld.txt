@@ -1,4 +1,0 @@
-## This is a markdown file
-* This is an extra element
-* I have chosen to add an unordered list
-* This is not an error
